@@ -1,1 +1,1 @@
-# eoShop
+# eoShop - package manager shop for ElementOS
